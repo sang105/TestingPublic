@@ -10,3 +10,6 @@
 [submodule "NewModuleThree"]
 	path = NewModuleThree
 	url = https://github.com/sang105/TestingPublic.git
+[submodule "NewModuleFour"]
+	path = NewModuleFour
+	url = https://github.com/sang105/TestingPublic.git
