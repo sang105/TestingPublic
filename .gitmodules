@@ -7,3 +7,9 @@
 [submodule "NewModuleThree"]
 	path = NewModuleThree
 	url = https://github.com/sang105/TestingPublic.git
+[submodule "NewModuleFive"]
+	path = NewModuleFive
+	url = https://github.com/sang105/TestingPublic.git
+[submodule "TestingTwo"]
+	path = TestingTwo
+	url = https://github.com/sang105/TestingTwo.git
